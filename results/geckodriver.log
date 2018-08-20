@@ -1,0 +1,26 @@
+1533761581057	geckodriver	INFO	geckodriver 0.21.0
+1533761581060	geckodriver	INFO	Listening on 127.0.0.1:37528
+/snap/firefox/107/bin/desktop-launch: line 174: /home/aimeeu/snap/firefox/common/.config/user-dirs.dirs: No such file or directory
+cp: cannot create regular file '/home/aimeeu/snap/firefox/common/.config/': Not a directory
+/snap/firefox/107/bin/desktop-launch: line 177: /home/aimeeu/snap/firefox/common/.config/user-dirs.dirs.md5sum: No such file or directory
+/snap/firefox/107/bin/desktop-launch: line 177: /home/aimeeu/snap/firefox/common/.config/user-dirs.locale.md5sum: No such file or directory
+1533761582311	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jldQ1QVrxkCA"
+/snap/firefox/107/bin/desktop-launch: line 174: /home/aimeeu/snap/firefox/common/.config/user-dirs.dirs: No such file or directory
+cp: cannot create regular file '/home/aimeeu/snap/firefox/common/.config/': Not a directory
+/snap/firefox/107/bin/desktop-launch: line 177: /home/aimeeu/snap/firefox/common/.config/user-dirs.dirs.md5sum: No such file or directory
+/snap/firefox/107/bin/desktop-launch: line 177: /home/aimeeu/snap/firefox/common/.config/user-dirs.locale.md5sum: No such file or directory
+Gtk-Message: Failed to load module "canberra-gtk-module"
+Gtk-Message: Failed to load module "canberra-gtk-module"
+1533762161662	geckodriver	INFO	geckodriver 0.21.0
+1533762161665	geckodriver	INFO	Listening on 127.0.0.1:54977
+/snap/firefox/107/bin/desktop-launch: line 174: /home/aimeeu/snap/firefox/common/.config/user-dirs.dirs: No such file or directory
+cp: cannot create regular file '/home/aimeeu/snap/firefox/common/.config/': Not a directory
+/snap/firefox/107/bin/desktop-launch: line 177: /home/aimeeu/snap/firefox/common/.config/user-dirs.dirs.md5sum: No such file or directory
+/snap/firefox/107/bin/desktop-launch: line 177: /home/aimeeu/snap/firefox/common/.config/user-dirs.locale.md5sum: No such file or directory
+1533762162863	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EtLoZzJlzBWt"
+/snap/firefox/107/bin/desktop-launch: line 174: /home/aimeeu/snap/firefox/common/.config/user-dirs.dirs: No such file or directory
+cp: cannot create regular file '/home/aimeeu/snap/firefox/common/.config/': Not a directory
+/snap/firefox/107/bin/desktop-launch: line 177: /home/aimeeu/snap/firefox/common/.config/user-dirs.dirs.md5sum: No such file or directory
+/snap/firefox/107/bin/desktop-launch: line 177: /home/aimeeu/snap/firefox/common/.config/user-dirs.locale.md5sum: No such file or directory
+Gtk-Message: Failed to load module "canberra-gtk-module"
+Gtk-Message: Failed to load module "canberra-gtk-module"
